@@ -216,3 +216,4 @@ class Fighter extends Sprite {
     }
   }
 }
+
