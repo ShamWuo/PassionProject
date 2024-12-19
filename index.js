@@ -6,6 +6,7 @@ canvas.height = 576
 
 c.fillRect(0, 0, canvas.width, canvas.height)
 
+const gravity2 = 0.44
 const gravity = 0.7
 
 const background = new Sprite({
